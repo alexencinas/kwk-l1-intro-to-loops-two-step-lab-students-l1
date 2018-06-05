@@ -41,3 +41,10 @@ def dance
   
   moves_completed +=1
   #moves_completed = moves_completed +1
+  
+puts "#{moves_completed} moves completed"
+
+end #while
+end #end method
+
+dance
